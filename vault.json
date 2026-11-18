@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "iterations": 600000,
+  "salt": "VFTbTmjHHJaHxW1OwLUZeA==",
+  "iv": "sIEHjjhbonJV0HK1",
+  "checkIv": "CHMQjMTxpnQUdZSK",
+  "check": "Ut9WjzN4eiygBxz4tgtq2NBYsrzUIw9qda1jkaTpjdc=",
+  "payload": "payload-e63d6e176b39a4f8.bin"
+}
